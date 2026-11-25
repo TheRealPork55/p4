@@ -1,0 +1,5 @@
+apple|1|a round fruit with red or green skin
+banana|1|a yellow curved fruit
+heap|3|a tree-based structure used for priority operations
+hash table|3|a data structure that maps keys to values
+recursion|4|a function calling itself
